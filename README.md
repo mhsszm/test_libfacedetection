@@ -8,7 +8,7 @@ The model file has also been provided in directory ./models/.
 
 examples/libfacedetectcnn-example.cpp shows how to use the library.
 
-![Examples](/images/cnnresult.png "Detection example")
+
 
 How to Compile
 -------------
@@ -65,13 +65,14 @@ The work is partyly supported by the Science Foundation of Shenzhen (Grant No. J
 
 
 
-using steps:
+# using steps:
+-------------
 *git clone  git@github.com:mhsszm/test_libfacedetection.git
 *cd test_libfacedetection
 *mkdir build && cd build 
 *camke ..
 *make
-
+-------------
 
 
 
