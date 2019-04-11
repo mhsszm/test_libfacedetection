@@ -70,7 +70,7 @@ The work is partyly supported by the Science Foundation of Shenzhen (Grant No. J
 * git clone  git@github.com:mhsszm/test_libfacedetection.git
 * cd test_libfacedetection
 * mkdir build && cd build 
-* camke ..
+* cmake ..
 * make
 -------------
 
