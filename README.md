@@ -72,6 +72,7 @@ The work is partyly supported by the Science Foundation of Shenzhen (Grant No. J
 * mkdir build && cd build 
 * cmake ..
 * make
+* ./face_detect ../images/keliamoniz2.jpg
 -------------
 
 
